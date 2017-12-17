@@ -1,0 +1,10 @@
+安装环境
+
+1.安装node 查看node版本号，node -v
+
+2.安装vue脚手架：npm install --global vue-cli
+
+3.创建第一个vue项目：切换到项目所在文件夹，如f:/回车，cd vue回车，
+
+然后vue init webpack test,这里的test为项目文件名
+
